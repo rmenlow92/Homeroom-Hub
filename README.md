@@ -2,7 +2,7 @@
 
 An interactive classroom display for online 4th–5th grade classes. The teacher shares it on screen during live lessons. It works like a canvas: drag, resize, add and remove widgets to fit each lesson.
 
-**Live demo:** LIVE_DEMO_LINK
+**Live demo:** (https://rmenlow92.github.io/Homeroom-Hub/)
 
 ![Homeroom Hub with a calendar, welcome message, word list, timer and name wheel](preview.png)
 
